@@ -20,10 +20,10 @@ A powerful and user-friendly Streamlit web application that scrapes job listings
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/800x600/2E86AB/FFFFFF?text=Main+Interface+Screenshot)
+![Main Interface](https://github.com/No0Bitah/dice_job_search/blob/main/screenshots/main_interface.png)
 
 ### Results Table
-![Results Table](https://via.placeholder.com/800x400/A23B72/FFFFFF?text=Results+Table+Screenshot)
+![Results Table](https://github.com/No0Bitah/dice_job_search/blob/main/screenshots/result.png)
 
 ## 🛠️ Installation & Setup
 
@@ -35,8 +35,8 @@ A powerful and user-friendly Streamlit web application that scrapes job listings
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dice-job-scraper.git
-   cd dice-job-scraper
+   git clone https://github.com/No0Bitah/dice_job_search.git
+   cd dice_job_search
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -175,9 +175,9 @@ This tool is for educational and personal use only. Users are responsible for en
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dice-job-scraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dice-job-scraper/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/No0Bitah/dice_job_search/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/No0Bitah/dice_job_search/discussions)
+- **Email**: jomari.daison@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -196,6 +196,6 @@ This tool is for educational and personal use only. Users are responsible for en
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [No0Bitah](https://github.com/No0Bitah)**
 
 *If you find this project helpful, please give it a ⭐ on GitHub!*
