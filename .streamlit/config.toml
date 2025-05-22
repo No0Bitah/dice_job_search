@@ -1,9 +1,11 @@
 [theme]
-Primary: #7C3AED (Purple)
-Secondary: #2563EB (Blue)
-Accent: #06B6D4 (Cyan)
-Background: #FAFAFA (Light Gray)
-Text: #1F2937 (Dark Gray)
+primaryColor = "#2563EB"            # Professional Blue
+backgroundColor = "#F8FAFC"         # Light Background
+secondaryBackgroundColor = "#FFFFFF" # Card Background
+textColor = "#1E293B"               # Primary Text
+font = "sans serif"
+
+
 
 
 [server]
