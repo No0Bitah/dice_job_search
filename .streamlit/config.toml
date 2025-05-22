@@ -1,14 +1,10 @@
 [theme]
-Primary: #2563EB    /* Professional Blue */
-Secondary: #64748B  /* Neutral Gray */
-Success: #10B981    /* Green for positive actions */
-Warning: #F59E0B    /* Amber for alerts */
-Error: #EF4444      /* Red for errors */
-Background: #F8FAFC /* Light background */
-Card: #FFFFFF       /* White cards */
-Text Primary: #1E293B
-Text Secondary: #64748B
-Border: #E2E8F0
+Primary: #4338CA (Indigo)
+Secondary: #7DD3FC (Sky Blue)
+Accent: #FCD34D (Yellow)
+Background: #FEFEFE (Pure White)
+Text: #1F2937 (Charcoal)
+
 
 [server]
 headless = true
