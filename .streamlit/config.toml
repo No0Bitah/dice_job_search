@@ -1,9 +1,9 @@
 [theme]
-Primary: #4338CA (Indigo)
-Secondary: #7DD3FC (Sky Blue)
-Accent: #FCD34D (Yellow)
-Background: #FEFEFE (Pure White)
-Text: #1F2937 (Charcoal)
+Primary: #7C3AED (Purple)
+Secondary: #2563EB (Blue)
+Accent: #06B6D4 (Cyan)
+Background: #FAFAFA (Light Gray)
+Text: #1F2937 (Dark Gray)
 
 
 [server]
