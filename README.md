@@ -188,6 +188,7 @@ This tool is for educational and personal use only. Users are responsible for en
 ## 📈 Roadmap
 
 - [ ] Add support for more job boards
+- [ ] Add date filter
 - [ ] Implement job matching algorithms
 - [ ] Create mobile app version
 - [ ] Add data visualization features
